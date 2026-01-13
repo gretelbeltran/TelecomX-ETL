@@ -19,10 +19,6 @@ El dataset contiene información demográfica de los clientes, servicios contrat
 - Pandas
 - Matplotlib
 
-### Instalación de dependencias
-```bash
-pip install pandas numpy matplotlib seaborn
-
 ## Estructura
 - Notebook con proceso ETL
 - Análisis exploratorio de datos
